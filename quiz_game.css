@@ -1,0 +1,87 @@
+h1{
+	background-color: 	#f3ec78;
+    background-image: linear-gradient(45deg, #f3ec78,orange, #af4261);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+	font-family: 'Meow Script', cursive;
+	size: 90px;	
+}
+
+body
+{
+	background-image:
+    radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+    radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+	background-attachment: fixed;
+	color: #6cacc5;
+}
+
+	.login_div1 , .login_div2
+	{
+		background-image:radial-gradient(50% 30% ellipse at center top, #b979af 0%, rgba(255, 0, 0, 0) 100%),
+		radial-gradient(60% 50% ellipse at center bottom, #00fd0d 0%, #2f5832 100%); ;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;	
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+label{
+	color: yellow;
+}
+h3{
+	background-color: 	#f3ec78;
+    background-image: linear-gradient(45deg, #f3ec78,rgb(2, 253, 232), #ff0048);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+#musk{
+background-image: radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+border-width: 3px;
+border-style: ridge;
+color: white;
+text-align: center;
+}
+#bin{
+	background-color: 	#f3ec78;
+    background-image: linear-gradient(45deg, #f3ec78,rgb(2, 253, 232), #ff0048);
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+	font-size: 30px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
